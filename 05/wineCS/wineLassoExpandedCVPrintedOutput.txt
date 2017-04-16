@@ -1,0 +1,2 @@
+('alpha Value that Minimizes CV Error  ', 0.016640498998569835)
+('Minimum MSE  ', 0.43452874043020256)

@@ -1,0 +1,9 @@
+Out of sample error versus attribute set size
+[0.7234259255116281, 0.68609931528371915, 0.67343650334202809, 0.66770332138977984, 0.66225585685222743, 0.65900047541546247, 0.65727172061430772, 0.65709058062076986, 0.65699930964461406, 0.65758189400434675, 0.65739098690113373]
+
+Best attribute indices
+[10, 1, 9, 4, 6, 8, 5, 3, 2, 7, 0]
+
+Best attribute names
+['"alcohol"', '"volatile acidity"', '"sulphates"', '"chlorides"', '"total sulfur dioxide"', '"pH"', '"free sulfur dioxide"', '"residual sugar"', '"citric acid"', '"density"', '"fixed acidity"']
+

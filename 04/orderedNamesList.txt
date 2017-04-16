@@ -1,0 +1,1 @@
+['"alcohol"', '"volatile acidity"', '"sulphates"', '"total sulfur dioxide"', '"chlorides"', '"fixed acidity"', '"pH"', '"free sulfur dioxide"', '"citric acid"', '"residual sugar"', '"density"']

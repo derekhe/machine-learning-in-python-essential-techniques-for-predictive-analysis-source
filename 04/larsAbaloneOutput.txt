@@ -1,0 +1,1 @@
+['Shell weight', 'Height', 'Sex2', 'Shucked weight', 'Diameter', 'Sex1']

@@ -1,0 +1,15 @@
+('Attributes Ordered by How Early They Enter the Model', ['"alcohol"', '"volatile acidity"', '"sulphates"', '"total sulfur dioxide"', '"chlorides"', '"fixed acidity"', '"pH"', '"free sulfur dioxide"', '"residual sugar"', '"citric acid"', '"density"'])
+
+('Best Coefficient Values ', [0.0, -0.22773815784738916, -0.0, 0.0, -0.094239023363375404, 0.022151948563542922, -0.099036391332770576, -0.0, -0.067873612822590218, 0.16804102141830754, 0.37509573430881538])
+
+('Attributes Ordered by Coef Size at Optimum alpha', ['"alcohol"', '"volatile acidity"', '"sulphates"', '"total sulfur dioxide"', '"chlorides"', '"pH"', '"free sulfur dioxide"'])
+
+
+Values with Un-normalized X:
+('Attributes Ordered by How Early They Enter the Model', ['"total sulfur dioxide"', '"free sulfur dioxide"', '"alcohol"', '"fixed acidity"', '"volatile acidity"', '"sulphates"'])
+
+('Best Coefficient Values ', [0.044339055570034182, -1.0154179864549988, 0.0, 0.0, -0.0, 0.0064112885435006822, -0.0038622920281433199, -0.0, -0.0, 0.41982634135945091, 0.37812720947996975])
+
+('Attributes Ordered by Coef Size at Optimum alpha', ['"volatile acidity"', '"sulphates"', '"alcohol"', '"fixed acidity"', '"free sulfur dioxide"', '"total sulfur dioxide"'])
+
+

@@ -1,0 +1,17 @@
+('Best Value of Misclassification Error = ', 0.22115384615384615)
+('Best alpha for Misclassification Error = ', 0.017686244720179375)
+
+('Best Value for AUC = ', 0.86867279650784812)
+('Best alpha for AUC   =  ', 0.020334883589342503)
+
+Confusion Matrices for Different Threshold Values
+('Threshold Value =   ', 0.37952298245219962)
+('TP = ', 48.0, 'FP = ', 5.0)
+('FN = ', 63.0, 'TN = ', 92.0)
+('Threshold Value =   ', -0.045503481125357965)
+('TP = ', 85.0, 'FP = ', 20.0)
+('FN = ', 26.0, 'TN = ', 77.0)
+('Threshold Value =   ', -0.4272522354395466)
+('TP = ', 107.0, 'FP = ', 49.999999999999993)
+('FN = ', 4.0, 'TN = ', 47.000000000000007)
+

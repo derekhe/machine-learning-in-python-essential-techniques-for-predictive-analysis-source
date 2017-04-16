@@ -1,0 +1,24 @@
+timing and perf comparisons
+
+dataset		algo		training time		perf		perf metric
+
+glass - 	RF 2000 trees 	0:00:02.354401     	0.227272727273 	class error
+glass - 	gbm 500 trees 	0:00:03.879308		0.227272727273
+glass - 	lasso 		0:00:12.296948		0.373831775701
+	
+rvmines		rf 2000 trees	0:00:02.760755		0.950304259635	auc
+rvmines		gbm 2000 trees	0:00:04.201122		0.956389452333 	auc
+rvmines		enet		0:00:00.519870*		0.868672796508
+
+abalone		rf 500 trees	0:00:08.060850		4.30971555911 	MSE
+abalone		gbm 2000 trees	0:00:22.726849		4.20153525438	mse
+
+wine		rf 500 trees	0:00:02.665874		0.314125711509	mse
+wine		gbm 2000 trees	0:00:13.081342		0.355898056894  mse
+wine		lasso-expanded	0:00:00.646788*		0.434528740430
+
+
+
+*time per cross-validation fold
+
+

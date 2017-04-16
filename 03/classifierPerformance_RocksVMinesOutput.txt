@@ -1,0 +1,14 @@
+('Shape of xTrain array', (138, 60))
+('Shape of yTrain array', (138,))
+('Shape of xTest array', (70, 60))
+('Shape of yTest array', (70,))
+('Some values predicted by model', array([-0.10240253,  0.42090698,  0.38593034,  0.36094537,  0.31520494]), array([ 1.11094176,  1.12242751,  0.77626699,  1.02016858,  0.66338081]))
+tp = 68.0	fn = 6.0
+fp = 7.0	tn = 57.0
+
+tp = 28.0	fn = 9.0
+fp = 9.0	tn = 24.0
+
+AUC for in-sample ROC curve: 0.979519
+AUC for out-of-sample ROC curve: 0.848485
+
